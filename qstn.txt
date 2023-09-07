@@ -1,0 +1,372 @@
+0
+What is the focus of a security audit or vulnerability assessment?
++ Locating vulnerabilities
+- Locating threats
+- Enacting threats
+- Exploiting vulnerabilities
+1
+What kind of physical access device restricts access to a single individual at any one time?
+- Checkpoint
+- Perimeter security
+- Security zones
++ Mantrap
+2
+Which of the following is a mechanism for managing digital certificates through a system of trust?
++ PKI
+- PKCS
+- ISA
+- SSL
+3
+Which protocol is used to create a secure environment in a wireless network?
+- WAP
++ WPA
+- WTLS
+- WML
+4
+What type of exercise is conducted with full knowledge of the target environment?
++ White box
+- Gray box
+- Black box
+- Glass box
+5
+You want to establish a network connection between two LANs using the Internet. Which technology would best accomplish that for you?
+- IPSec
++ L2TP
+- PPP
+- SLIP
+6
+Which design concept limits access to systems from outside users while protecting users and systems inside the LAN?
++ DMZ
+- VLAN
+- I&A
+- Router
+7
+In the key recovery process, which key must be recoverable?
+- Rollover key
+- Secret key
+- Previous key
++ Escrow key
+8
+Which kind of attack is designed to overload a system or resource, taking it temporarily or permanently offline?
+- Spoofing
+- Trojan
+- Man in the middle
++ SYN flood
+9
+Which component of an NIDS collects data?
+- Data source
++ Sensor
+- Event
+- Analyzer
+10
+What is the process of making an operating system secure from attack called?
+- Tuning
+- Sealing
++ Hardening
+- Locking down
+11
+The integrity component provides which feature of the CIA triad?
++ Verification that information is accurate
+- Verification that ethics are properly maintained
+- Establishment of clear access control of data
+- Verification that data is kept private and secure
+12
+Which mechanism is used by PKI to allow immediate verification of a certificate’s validity?
+- CRL
+- MD5
+- SSHA
++ OCSP
+12
+Which of the following is used to create a VLAN from a physical security perspective?
+- Hub
++ Switch
+- Router
+- Firewall
+13
+Which mechanism is used to manage access to a network resource based on detected attacks?
+- NIDS
++ NIPS
+- NITS
+- NADS
+14
+Which of the following would provide additional security to a web server?
+- Changing the default port for traffic to 80
+- Changing the default port for traffic to 1019
++ Changing the default port for traffic to 443
+- Changing the default port for traffic to 161
+15
+What malware aims to propagate and spread to other systems without interaction from users?
+- Virus
+- Trojan horse
+- Logic bomb
++ Worm
+16
+Which of the following is a major security problem with FTP?
+- Password files are stored in an unsecure area on disk.
+- Memory traces can corrupt file access.
++ User IDs and passwords are unencrypted.
+- FTP sites are unregistered.
+17
+Which system would you install to provide detective capabilities within a network?
++ NIDS
+- HIDS
+- NIPS
+- HIPS
+18
+Maintaining the integrity of evidence and ensuring no gapless possession occur is known as what?
+- Security investigation
++ Chain of custody
+- Three As of investigation
+- Security policy
+19
+What encryption process uses one piece of information as a carrier for another?
++ Steganography
+- Hashing
+- MDA
+- Cryptointelligence
+20
+Which policy dictates how assets can be used by employees of a company?
+- Security policy
+- User policy
+- Enforcement policy
++ Acceptable use policy
+21
+Which algorithm is an asymmetric encryption protocol?
++ RSA
+- AES
+- DES
+- 3DES
+22
+Which of the following is an example of a hashing algorithm?
+- ECC
+- PKI
++ SHA
+- MD
+23
+Which of the following creates fixed-length output from variable-length input?
++ MD5
+- MD7
+- SHA12
+- SHA8
+24
+What item is also referred to as a physical address to a computer system?
++ MAC
+- DAC
+- RBAC
+- STAC
+25
+What is the process of investigating computer system information relating to a security incident?
++ Computer forensics
+- Virus scanning
+- Security policy
+- Evidence gathering
+26
+Which of the following is seen as a replacement for protocols such as Telnet and FTP?
+- SSL
+- SCP
+- Telnet2
++ SSH
+27
+Which of the following is commonly used to create thumbprints for digital certificates?
++ MD5
+- MD7
+- SHA12
+- SHA8
+28
+What item is also referred to as a logical address to a computer system?
++ IP address
+- IPX address
+- MAC address
+- SMAC address
+29
+How many bits are in an IPv6 address?
+- 32
+- 64
++ 128
+- 256
+30
+At which layer of the OSI model does a proxy operate?
+- Physical
+- Network
+- Data Link
++ Application
+31
+A device uses node MAC addresses to funnel traffic, what layer of the OSI model is the device working in?
+- Layer 1
++ Layer 2
+- Layer 3
+- Layer 4
+32
+Which port uses SSL to secure web traffic?
++ 443
+- 25
+- 23
+- 80
+33
+What kind of domain resides on a single switchport?
+- Windows domain
++ Broadcast domain
+- Secure domain
+- Collision domain
+34
+Which network topology uses a token-based access methodology?
+- Ethernet
+- Star
+- Bus
++ Ring
+35
+Hubs operate at what layer of the OSI model?
++ Layer 1
+- Layer 2
+- Layer 3
+- Layer 4
+36
+What is the proper sequence of the TCP three-way-handshake?
+- SYNACK, ACK, ACK
++ SYN, SYNACK, ACK
+- SYNSYN, SYNACK, SYN
+- ACK, SYNACK, SYN
+37
+Which of these protocols is a connection-oriented protocol?
+- FTP
+- UDP
+- POP3
++ TCP
+38
+A scan of a network client shows that port 23 is open; what protocol is this aligned with?
++ Telnet
+- NetBIOS
+- DNS
+- SMTP
+39
+What port range is an obscure third-party application most likely to use?
+- 1 to 1024
+- 1025 to 32767
++ 49152 to 65535
+- 32768 to 49151
+40
+Symmetric cryptography is also known as _________.
++ Shared key cryptography
+- Public key cryptography
+- Hashing
+- Steganography
+41
+Asymmetric encryption is also referred to as which of the following?
+- Shared key
++ Public key
+- Hashing
+- Block
+42
+Which of the following best describes hashing?
+- An algorithm
+- A cipher
++ Nonreversible
+- A cryptosystem
+43
+A message digest is a product of which kind of algorithm?
+- Symmetric
+- Asymmetric
++ Hashing
+- Steganography
+44
+An asymmetric key system differs from symmetric because it uses which of the following?
+- One key
+- One algorithm
++ Two keys
+- Two algorithms
+45
+A public key is stored on the local computer by its owner in a __________.
+- Hash
++ PKI system
+- Smart card
+- Private key
+46
+Symmetric key systems have key distribution problems due to __________.
++ Number of keys
+- Generation of key pairs
+- Amount of data
+- Type of data
+47
+What does hashing preserve in relation to data?
++ Integrity
+- Confidentiality
+- Availability
+- Repudiation
+48
+Which of the following is a common hashing protocol?
+- AES
+- DES
+- RSA
++ MD5
+49
+SSL is a mechanism for which of the following?
+- Securing stored data
++ Securing transmitted data
+- Verifying data
+- Authenticating data
+50
+Which system does SSL use to function?
+- AES
+- DES
+- 3DES
++ PKI
+51
+In IPsec, encryption and other processes happen at which layer of the OSI model?
+- Layer 1
+- Layer 2
++ Layer 3
+- Layer 4
+52
+In IPsec, what does Authentication Header (AH) provide?
+- Data security
+- Header security
++ Authentication services
+- Encryption
+53
+In IPsec, what does Encapsulating Security Payload (ESP) provide?
++ Data security
+- Header security
+- Authentication services
+- Integrity
+54
+Which of the following does IPsec use?
+- SSL
++ PKI
+- AES
+- DES
+55
+IPsec uses which two modes?
++ AH/ESP
+- AES/DES
+- EH/ASP
+- AES/ESP
+56
+How is a brute-force attack performed?
++ By trying all possible combinations of characters
+- By trying dictionary words
+- By capturing hashes
+- By comparing hashes
+57
+A __________ is a type of offline attack.
+- Cracking attack
++ Rainbow attack
+- Birthday attack
+- Hashing attack
+58
+An attacker can use a(n) __________ to return to a system.
++ Backdoor
+- Cracker
+- Account
+- Service
+59
+What does rooting a device do?
+- Removes updates from a system
+- Removes access to a user
++ Provides root-level access to a user on a system
+- Increases security on a device
+60
+A polymorphic virus __________.
+- Evades detection through backdoors
+- Evades detection through heuristics
+- Evades detection through luck
++ Evades detection through rewriting itself
