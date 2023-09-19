@@ -1,5 +1,5 @@
 // Rusty_Quiz
-// By: Sina Tashakkori, QVLx Labs
+// By: $t@$h, QVLx Labs
 
 use include_crypt::{include_crypt, EncryptedFile};
 use zeroize::Zeroize;
